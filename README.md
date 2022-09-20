@@ -31,7 +31,7 @@ The following animation demonstrates the application functionality:
 ![image](https://user-images.githubusercontent.com/110436164/190948461-5efb8a22-646e-45f5-9198-09dab5f711e1.png)
 
 # Link to deployed application
-
+https://valeryo145.github.io/Work-Scheduler--/
 # ScreenShots
 
 ![Work Day Scheduler - Personal - Microsoft​ Edge 9_18_2022 10_25_52 PM](https://user-images.githubusercontent.com/110436164/190949752-b791690d-61a6-4a26-a8e7-4b123e765e9f.png)
